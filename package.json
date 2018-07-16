@@ -1,0 +1,20 @@
+{
+  "name": "OSRSPercentToMax",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsc && node lib/index.js"
+  },
+  "author": "Brett Merrifield",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "papaparse": "^4.5.0",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.1.1",
+    "@types/papaparse": "^4.5.1",
+    "nodemon": "^1.18.2"
+  }
+}
